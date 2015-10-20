@@ -1,0 +1,2 @@
+# TradingApp
+This is a C# .net application that mimics the characteristics of a trading application. There is price update service that raises price update event 20 times in a second. This gives a real time feel to the application. Each and every time a new price about an instrument is updated the GUI shows the same using coloring scheme. If the new price of the stock is higher than previous then Blue color will blink in the background of that cell or else Red. If the price is not changed then a neutral color i.e. LightGray would be set to background
