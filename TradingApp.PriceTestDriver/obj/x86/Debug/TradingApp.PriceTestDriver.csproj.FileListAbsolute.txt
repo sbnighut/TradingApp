@@ -1,0 +1,16 @@
+C:\Users\Swapnil\Desktop\Akuna\Akuna.Price\Akuna.PriceTestDriver\bin\Debug\Akuna.PriceTestDriver.exe.config
+C:\Users\Swapnil\Desktop\Akuna\Akuna.Price\Akuna.PriceTestDriver\bin\Debug\Akuna.PriceTestDriver.exe
+C:\Users\Swapnil\Desktop\Akuna\Akuna.Price\Akuna.PriceTestDriver\bin\Debug\Akuna.PriceTestDriver.pdb
+C:\Users\Swapnil\Desktop\Akuna\Akuna.Price\Akuna.PriceTestDriver\bin\Debug\Akuna.PriceService.dll
+C:\Users\Swapnil\Desktop\Akuna\Akuna.Price\Akuna.PriceTestDriver\bin\Debug\Akuna.PriceService.pdb
+C:\Users\Swapnil\Desktop\Akuna\Akuna.Price\Akuna.PriceTestDriver\obj\x86\Debug\TradingApp.PriceTestDriver.csprojResolveAssemblyReference.cache
+C:\Users\Swapnil\Desktop\Akuna\Akuna.Price\Akuna.PriceTestDriver\obj\x86\Debug\Akuna.PriceTestDriver.exe
+C:\Users\Swapnil\Desktop\Akuna\Akuna.Price\Akuna.PriceTestDriver\obj\x86\Debug\Akuna.PriceTestDriver.pdb
+C:\Users\Swapnil\Desktop\TradingApp\TradingApp\TradingApp.PriceTestDriver\bin\Debug\Akuna.PriceTestDriver.exe.config
+C:\Users\Swapnil\Desktop\TradingApp\TradingApp\TradingApp.PriceTestDriver\bin\Debug\Akuna.PriceTestDriver.exe
+C:\Users\Swapnil\Desktop\TradingApp\TradingApp\TradingApp.PriceTestDriver\bin\Debug\Akuna.PriceTestDriver.pdb
+C:\Users\Swapnil\Desktop\TradingApp\TradingApp\TradingApp.PriceTestDriver\bin\Debug\Akuna.PriceService.dll
+C:\Users\Swapnil\Desktop\TradingApp\TradingApp\TradingApp.PriceTestDriver\bin\Debug\Akuna.PriceService.pdb
+C:\Users\Swapnil\Desktop\TradingApp\TradingApp\TradingApp.PriceTestDriver\obj\x86\Debug\TradingApp.PriceTestDriver.csprojResolveAssemblyReference.cache
+C:\Users\Swapnil\Desktop\TradingApp\TradingApp\TradingApp.PriceTestDriver\obj\x86\Debug\Akuna.PriceTestDriver.exe
+C:\Users\Swapnil\Desktop\TradingApp\TradingApp\TradingApp.PriceTestDriver\obj\x86\Debug\Akuna.PriceTestDriver.pdb

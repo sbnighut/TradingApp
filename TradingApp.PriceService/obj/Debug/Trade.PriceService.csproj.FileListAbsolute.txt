@@ -1,0 +1,8 @@
+C:\Users\Swapnil\Desktop\Akuna\Akuna.Price\Akuna.PriceService\bin\Debug\Akuna.PriceService.dll
+C:\Users\Swapnil\Desktop\Akuna\Akuna.Price\Akuna.PriceService\bin\Debug\Akuna.PriceService.pdb
+C:\Users\Swapnil\Desktop\Akuna\Akuna.Price\Akuna.PriceService\obj\Debug\Akuna.PriceService.dll
+C:\Users\Swapnil\Desktop\Akuna\Akuna.Price\Akuna.PriceService\obj\Debug\Akuna.PriceService.pdb
+C:\Users\Swapnil\Desktop\TradingApp\TradingApp\TradingApp.PriceService\bin\Debug\Akuna.PriceService.dll
+C:\Users\Swapnil\Desktop\TradingApp\TradingApp\TradingApp.PriceService\bin\Debug\Akuna.PriceService.pdb
+C:\Users\Swapnil\Desktop\TradingApp\TradingApp\TradingApp.PriceService\obj\Debug\Akuna.PriceService.dll
+C:\Users\Swapnil\Desktop\TradingApp\TradingApp\TradingApp.PriceService\obj\Debug\Akuna.PriceService.pdb
